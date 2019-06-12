@@ -1,3 +1,5 @@
 ### learn 
 
-- git commit  
+- git commit
+  git log
+  git reflog 
