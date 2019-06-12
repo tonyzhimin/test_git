@@ -1,5 +1,6 @@
 ### learn 
 
-- git commit
-  git log
   git reflog 
+- git commit  
+- git log
+- git add 
